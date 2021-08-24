@@ -3,7 +3,7 @@
 [![PyPI](https://img.shields.io/pypi/v/imaginenc)](https://pypi.python.org/pypi/imaginenc)
 [![Versions](https://img.shields.io/pypi/pyversions/imaginenc)](https://pypi.python.org/pypi/imaginenc)
 [![License](https://img.shields.io/pypi/l/imaginenc)](https://pypi.python.org/pypi/imaginenc)
-[![Build](https://img.shields.io/github/workflow/status/LordDeatHunter/Imaginenc/Python%20application)]()
+[![Build](https://img.shields.io/github/workflow/status/LordDeatHunter/Imaginenc/Python%20application)](#)
 
 
 Convert any file into an image, and images back to files.  
